@@ -37,7 +37,7 @@ Outside the lab, I'm always exploring topics like machine learning, data science
 - Financial Markets
 - Business Strategy
 
-## Current Focus
+## 📌 Current Focus
 
 - Building robust image analysis pipelines
 - Learning advanced machine learning techniques
