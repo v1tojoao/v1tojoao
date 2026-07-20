@@ -37,14 +37,12 @@ Outside the lab, I'm always exploring topics like machine learning, data science
 - Financial Markets
 - Business Strategy
 
-## 📌 Interests
+## Current Focus
 
-- Data Science
-- Scientific Computing
-- Computer Vision
-- AI for Healthcare
-- Operations Research
-- Analytics & Strategy
+- Building robust image analysis pipelines
+- Learning advanced machine learning techniques
+- Improving statistical and business analysis skills
+- Developing projects that bridge science and data-driven decision making
 
 ---
 
