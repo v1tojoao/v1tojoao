@@ -48,4 +48,4 @@ Outside the lab, I'm always exploring topics like machine learning, data science
 
 > *"I enjoy turning complex data into clear insights and building tools that make analysis easier, faster, and more reproducible."*
 
-📫 Feel free to connect with me on **LinkedIn** or explore some of my projects below.
+📫 Feel free to connect with me on **LinkedIn** 
