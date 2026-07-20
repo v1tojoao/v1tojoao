@@ -1,107 +1,53 @@
-# Hi there! 👋 I'm João Victor
+# Hi, I'm João Victor 👋
 
-Applied Mathematics graduate from the University of Campinas (UNICAMP) with a background in scientific computing, image analysis, and machine learning.
+I'm an Applied Mathematics graduate from the University of Campinas (UNICAMP) currently working at the Brazilian Center for Research in Energy and Materials (CNPEM).
 
-Currently, I work at the Brazilian Center for Research in Energy and Materials (CNPEM), where I develop computational workflows for biological image analysis, supporting researchers with microscopy and synchrotron imaging data.
+My work sits at the intersection of mathematics, programming, and biology. I develop computational workflows that help researchers analyze microscopy and synchrotron imaging data, combining image processing, computer vision, and data analysis to answer scientific questions.
 
-I'm passionate about using data to solve real-world problems, whether in scientific research, healthcare, or business.
+Outside the lab, I'm always exploring topics like machine learning, data science, optimization, and quantitative finance. I enjoy building things, learning new technologies, and understanding how data can drive better decisions.
 
----
+## 🚀 What I'm working on
 
-## 🔬 Current Work
+- 🧬 Biological image analysis
+- 🔍 Computer vision for microscopy
+- 🐍 Scientific Python development
+- 📊 Data analysis & visualization
+- 🤖 Machine learning applications
+- ⚙️ Reproducible computational workflows
 
-- Biological image analysis
-- Scientific Python development
-- Computer vision for microscopy images
-- Image processing pipelines
-- Data analysis and visualization
-- AI-assisted image segmentation
-
----
-
-## 💻 Tech Stack
+## 🛠️ Technologies
 
 **Languages**
 
-- Python
-- SQL
-- MATLAB
-- R (basic)
+`Python` · `SQL` · `MATLAB` · `R`
 
-**Python Libraries**
+**Libraries**
 
-- NumPy
-- Pandas
-- SciPy
-- scikit-image
-- Matplotlib
-- Plotly
-- OpenCV
-- Dask
+`NumPy` · `Pandas` · `SciPy` · `scikit-image` · `OpenCV` · `Matplotlib` · `Plotly` · `Dask`
 
 **Tools**
 
-- Git & GitHub
-- Jupyter
-- Linux
-- Fiji/ImageJ
-- QuPath
-- Blender
+`Git` · `Linux` · `Jupyter` · `ImageJ/Fiji` · `QuPath` · `Blender`
 
----
-
-## 📚 Interests
-
-I'm particularly interested in:
-
-- Data Science
-- Machine Learning
-- Scientific Computing
-- Computer Vision
-- Healthcare AI
-- Optimization
-- Strategy & Analytics
-
----
-
-## 🌱 Currently Learning
+## 🌱 Currently learning
 
 - Machine Learning
 - Explainable AI
 - Statistics
-- Financial markets and investing
-- Business strategy
+- Financial Markets
+- Business Strategy
+
+## 📌 Interests
+
+- Data Science
+- Scientific Computing
+- Computer Vision
+- AI for Healthcare
+- Operations Research
+- Analytics & Strategy
 
 ---
 
-## 📈 What you'll find here
+> *"I enjoy turning complex data into clear insights and building tools that make analysis easier, faster, and more reproducible."*
 
-Most of my repositories involve:
-
-- Data analysis
-- Scientific computing
-- Image processing
-- Computer vision
-- Python utilities
-- Learning projects
-
----
-
-## 🤝 Let's Connect
-
-- LinkedIn: *(add your link)*
-- Email: *(add your email)*
-<!--
-**v1tojoao/v1tojoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Feel free to connect with me on **LinkedIn** or explore some of my projects below.
