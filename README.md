@@ -19,7 +19,7 @@ Outside the lab, I'm always exploring topics like machine learning, data science
 
 **Languages**
 
-`Python` · `SQL` · `MATLAB` · `R`
+`Python` · `SQL` · `C` · `R`
 
 **Libraries**
 
